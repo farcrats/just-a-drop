@@ -1205,6 +1205,10 @@ span.subjectFirstLetter {
     margin-right: 2px;
 }
 
+div.withDivider {
+    border-top: 1px solid #9d72aa;
+    padding-top: 1em;
+}
 /* Header */
 
 #header {
