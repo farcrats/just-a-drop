@@ -164,6 +164,10 @@ p.withList {
     margin: 0 0 .4em 0;
 }
 
+h3.withList {
+    margin: 0 0 .4em 0;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     line-height: 1.5;
@@ -743,6 +747,7 @@ ol {
 
 ol li {
     padding-left: 0.25em;
+    margin: 0 0 .6em 0;
 }
 
 ul {
